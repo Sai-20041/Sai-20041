@@ -60,7 +60,7 @@
 | 💬 Real-Time Chat App | React, Socket.io, Node.js | [View Live](https://your-chat-app-link.com) |
 | 🔐 Productivity Chrome Extension | JS, LocalStorage | [View Live](https://your-extension-link.com) |
 | 📄 Collaborative Doc Editor | Django, WebSocket | [View Live](https://your-doc-editor.com) |
-| 🌐 Animated Portfolio Website | HTML, CSS, JavaScript, GSAP | [View](file:///C:/Users/saich/OneDrive/Desktop/my%20portfolio/sai.html) |
+| 🌐 Animated Portfolio Website | HTML, CSS, JavaScript, GSAP | [View Live](file:///C:/Users/saich/OneDrive/Desktop/my%20portfolio/sai.html) |
 
 ---
 
