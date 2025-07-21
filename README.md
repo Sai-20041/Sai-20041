@@ -17,7 +17,7 @@
 - 📫 How to reach me:  
   📧 **sai20041@email.com**  
   🔗 [Portfolio Website](https://your-portfolio-link.com)  
-  🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+  🔗 [LinkedIn](https://www.linkedin.com/in/sai-chaithanya-ab7366289/)
 
 ---
 
