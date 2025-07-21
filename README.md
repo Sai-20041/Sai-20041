@@ -16,8 +16,7 @@
 - 🧠 Passionate about **clean code, scalable architecture, and UI/UX perfection**
 - 📫 How to reach me:  
   📧 **sai20041@email.com**  
-  🔗 [Portfolio Website](https://your-portfolio-link.com)  
-  🔗 [LinkedIn](https://www.linkedin.com/in/sai-chaithanya-ab7366289/)
+  🔗[LinkedIn](https://www.linkedin.com/in/sai-chaithanya-ab7366289/)
 
 ---
 
